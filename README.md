@@ -1,23 +1,14 @@
 # TUTUCA Games
 
-English-language studio website for `tutuca.games`, built with React and Vite. The approved stacked logo and standalone icon are in `src/assets/`.
+We make video games in Córdoba, Argentina.
 
-## Run locally
+We’re Federico Ahumada and Arturo Castro. After years in the industry, we started TUTUCA Games to make the kinds of games we’ve always wanted to play. Whenever we played the genres we loved, we kept coming back to the same questions: what would we change, what did we wish we could do, and what would it feel like to try those ideas in a game of our own?
 
-Use Node.js 22.12+ or 24+.
+## Our first game
 
-```sh
-npm ci
-npm run dev
-npm run build
-npm run preview
-```
+We’re developing our debut game around horde survival. We’ll share more as it takes shape.
 
-## Publish on GitHub Pages
+## The team
 
-1. Push the source to a new repository, including `.github/workflows/pages.yml`.
-2. In **Settings → Pages**, select **GitHub Actions** as the source.
-3. In **Actions → Publish to GitHub Pages**, choose **Run workflow** on the default branch. The workflow deploys the compiled `dist/` directory.
-4. When ready to connect the domain, enter `tutuca.games` in **Settings → Pages → Custom domain** and configure its DNS using GitHub’s instructions.
-
-[Configuring a custom domain for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+- **Federico Ahumada** · Developer Lead
+- **Arturo Castro** · Game Art Lead
